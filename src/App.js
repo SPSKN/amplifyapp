@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Private Repo</h1>
         <a
-          className="App-link"
+          className="Github"
           href="https://github.com/SPSKN"
           target="_blank"
           rel="noopener noreferrer"
